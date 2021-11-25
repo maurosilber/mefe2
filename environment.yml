@@ -1,0 +1,9 @@
+name: mefe2
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - scipy
+  - matplotlib
+  - pandas
+  - seaborn
